@@ -1,0 +1,44 @@
+[
+    {
+        "nom": "Cordeliers",
+        "description": "T3 de 65.05 m² avec un balcon de 5.79 m². Il se compose d'une entrée avec placard, d'une pièce de vie ouverte sur une cuisine équipée (évier, plaque de cuisson, hotte, meubles de rangement, plan de travail) prolongée par l'extérieur. Vous profiterez également de deux chambres dont une avec placard, d'une salle de bains (baignoire, meuble vasque, miroir) et WC séparés. Chauffage individuel gaz. Un garage en sous-sol vient compléter ce bien.",
+        "prix": 500000,
+        "photo": "https://cdn.pixabay.com/photo/2018/03/18/15/26/villa-3237114_1280.jpg"
+    },
+    {
+        "nom": "Place Carnot",
+        "description": "T1 MEUBLE de 30m2 au 4ème avec ascenseur. Il est composé d'un hall d'entrée avec placard, une pièce de vie avec cuisine équipée, une salle d'eau avec wc. Métro et commerces à deux pas. Chauffage et refroidissement collectif",
+        "prix": 400000,
+        "photo": "https://cdn.pixabay.com/photo/2016/06/24/10/47/house-1477041_640.jpg"
+    },
+    {
+        "nom": "Gratte-Ciel",
+        "description": "Dans un immeuble de standing de 2011, Magnifique T3 de 115m2 comprenant une entrée - une cuisine entièrement équipée ( meubles - plaques - four - hotte - évier - micro ondes - lave-vaisselle - cave à vin ) ouverte sur un grand séjour avec parquet au sol - 2 chambres dont une avec son dressing tout équipé - une très belle salle de bains équipée : baignoire - douche à l'italienne - deux vasques.",
+        "prix": 300000,
+        "photo": "https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_640.jpg"
+    },
+    {
+        "nom": "Part-Dieu",
+        "description": "Grande colocation rénovée avec goût de 5 chambres (dont 1 disponible actuellement). Appartement lumineux et spacieux de 100 €m² bénéficiant d'une belle loggia. ",
+        "prix": 350000,
+        "photo": "https://cdn.pixabay.com/photo/2016/08/11/23/48/mountains-1587287_640.jpg"
+    },
+    {
+        "nom": "Maison Neuve",
+        "description": "Appartement entièrement rafraichi composé d'un Hall d'entrée, d'un Séjour, d'une Salle à manger, d'une Cuisine, de 4 Chambres, de 2 Salle de bains dont une avec WC, d'un WC séparé, d'une Buanderie et de 2 Balcons",
+        "prix": 250000,
+        "photo": "https://cdn.pixabay.com/photo/2017/03/22/17/39/kitchen-2165756_640.jpg"
+    },
+    {
+        "nom": "Hôtel de Ville",
+        "description": "Appartement meublé T3 de 74m2 rénové récemment",
+        "prix": 600000,
+        "photo": "https://cdn.pixabay.com/photo/2017/09/09/18/25/living-room-2732939_640.jpg"
+    },
+    {
+        "nom": "Croix Rousse",
+        "description": "Séjour avec cuisine ouverte aménagée et équipée qui donne sur un balcon.",
+        "prix": 400000,
+        "photo": "https://cdn.pixabay.com/photo/2014/07/10/17/18/large-home-389271_640.jpg"
+    }
+]
