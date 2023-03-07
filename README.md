@@ -3,8 +3,10 @@ Ce projet a été réalisé par Marie Jassigneux dans le but d'un test technique
 
 # Lancer le projet
 
-Pour lancer le projet, il suffit de lancer la commande :
+Pour lancer le projet, il suffit de lancer les commandes :
 ```
+cd liste-appartement-main
+npm install react-scripts@latest
 npm start
 ```
 
